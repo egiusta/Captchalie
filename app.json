@@ -1,5 +1,5 @@
 {
-    "name": "A Telegram Captcha Bot by @Jigarvarma2005.",
+    "name": "Lie Captcha Bot",
     "description": "A Telegram Bot for verifying new group members by Emojis or Number Captcha. Made by @Jigarvarma2005.",
     "keywords": [
         "telegram",
@@ -9,8 +9,8 @@
         "digit",
         "bot"
     ],
-    "repository": "https://github.com/Jigarvarma2005/Captcha-Pro-bot",
-    "website": "https://telegram.dog/JigarVarma2005",
+    "repository": "https://github.com/egiusta/Captchalie",
+    "website": "https://telegram.dog/egiusta",
     "success_url": "https://t.me/JV_Community",
     "env": {
         "APP_ID": {
